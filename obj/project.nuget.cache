@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Acv3h/HEADj40sT4xtG3w5mZXncJp/eXS52L1DD5Y29zcyzBXxie6raibNIlyWjYdrL1OecJLgBirDE1BY4Ssg==",
+  "success": true,
+  "projectFilePath": "C:\\100DayChallenge\\ApiLinkedIn\\ApiLinkedIn.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\husse\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\husse\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\husse\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\husse\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

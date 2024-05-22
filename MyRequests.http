@@ -1,0 +1,25 @@
+
+GET https://localhost:44355/todos
+
+###
+GET https://localhost:44355/todos/1
+
+###
+GET https://localhost:44355/tasks/2
+
+
+###
+POST https://localhost:44355/todos
+content-type: application/json
+
+{
+  "id":2,
+  "name":"Write demo",
+  "dueDate":"2023-12-31",
+  "isCompleted":false
+}
+
+
+
+###
+DELETE https://localhost:44355/todos/2

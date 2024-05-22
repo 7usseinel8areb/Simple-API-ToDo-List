@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zGcN9/jUcTLWgVFeurAil8Rgtwr07R54rXsMygiaUm8=",
+  "Source": "ApiLinkedIn",
+  "BasePath": "_content/ApiLinkedIn",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\100DayChallenge\\ApiLinkedIn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60ED943C-08DF-4413-8A3D-5BD129701FD0}|ApiLinkedIn.csproj|c:\\100daychallenge\\apilinkedin\\myrequests.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{60ED943C-08DF-4413-8A3D-5BD129701FD0}|ApiLinkedIn.csproj|solutionrelative:myrequests.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60ED943C-08DF-4413-8A3D-5BD129701FD0}|ApiLinkedIn.csproj|c:\\100daychallenge\\apilinkedin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60ED943C-08DF-4413-8A3D-5BD129701FD0}|ApiLinkedIn.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyRequests.http",
+              "DocumentMoniker": "C:\\100DayChallenge\\ApiLinkedIn\\MyRequests.http",
+              "RelativeDocumentMoniker": "MyRequests.http",
+              "ToolTip": "C:\\100DayChallenge\\ApiLinkedIn\\MyRequests.http",
+              "RelativeToolTip": "MyRequests.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-19T07:42:18.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\100DayChallenge\\ApiLinkedIn\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\100DayChallenge\\ApiLinkedIn\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T07:36:11.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
